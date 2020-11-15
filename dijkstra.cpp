@@ -97,7 +97,7 @@ int main()
 	int num_vertices, num_arestas, origem, destino, peso;
 	int org, dest;
 
-	cout << "-----------------DJIKSTRA-----------------" << endl;
+	cout << "-----------------DIJKSTRA-----------------" << endl;
 	cout << "Numero de vertices do grafo: ";
 	cin >> num_vertices;
 	Grafo g(num_vertices);
